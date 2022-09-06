@@ -2,7 +2,7 @@
 
 # Math-magician
 
-> this project is a siple calculator that does the functions of a calulator and it is done using react.
+> this project is a simple calculator that does the functions of a calulator and it is done using react.
 
 
 ## Built With

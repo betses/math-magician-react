@@ -35,7 +35,7 @@ const Calculator = () => {
         <div className="grid-item1"><button type="button" className="button" onClick={afterClick}>AC</button></div>
         <div className="grid-item2"><button type="button" className="button" onClick={afterClick}>+/-</button></div>
         <div className="grid-item3"><button type="button" className="button" onClick={afterClick}>%</button></div>
-        <div className="grid-item4" id="right-side"><button type="button" className="button" onClick={afterClick}>+</button></div>
+        <div className="grid-item4" id="right-side"><button type="button" className="button" onClick={afterClick}>÷</button></div>
         <div className="grid-item5"><button type="button" className="button" onClick={afterClick}>7</button></div>
         <div className="grid-item6"><button type="button" className="button" onClick={afterClick}>8</button></div>
         <div className="grid-item7"><button type="button" className="button" onClick={afterClick}>9</button></div>

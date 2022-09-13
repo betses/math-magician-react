@@ -1,0 +1,19 @@
+.home-page {
+  margin: 0 4rem;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 20px;
+}
+
+.quote-page {
+  display: flex;
+  justify-content: center;
+  margin-top: 13rem;
+}
+
+.auther {
+  float: right;
+  padding-top: 2rem;
+}

@@ -1,11 +1,23 @@
+.calculator-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 4rem;
+}
+
+.calculator-welcome {
+  font-size: 20px;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
 }
 
-.grid-container > div {
+.grid-container>div {
   background-color: #e7e7e7;
   border: 1px solid #d1d0d0;
+  padding: 11px 22px;
+
 }
 
 #right-side {
@@ -25,7 +37,7 @@
   color: black;
 }
 
-.grid-container > div:hover {
+.grid-container>div:hover {
   background-color: #696970;
   color: white;
 }
@@ -38,10 +50,13 @@
 .cal-input {
   background-color: #858694;
   height: 3rem;
-  width: 31.4rem;
   border: none;
   margin-bottom: 1px;
   text-align: end;
   color: white;
   padding-right: 0.5rem;
+}
+
+.calc-image {
+  width: 55%;
 }

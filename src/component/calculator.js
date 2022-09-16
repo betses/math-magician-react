@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import calculate from "../logic/calculate";
-import "../style/Calculator.css";
+import React, { useState } from 'react';
+import calculate from '../logic/calculate';
+import '../style/Calculator.css';
 
 const Calculator = () => {
   const [numbers, setState] = useState({
@@ -16,8 +16,8 @@ const Calculator = () => {
         {
           ...numbers,
         },
-        buttonName
-      )
+        buttonName,
+      ),
     );
   };
 
@@ -25,7 +25,11 @@ const Calculator = () => {
 
   const result = (
     <p>
-      {total} {operation} {next}
+      {total}
+      {' '}
+      {operation}
+      {' '}
+      {next}
     </p>
   );
   return (

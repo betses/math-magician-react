@@ -12,7 +12,7 @@
 - CSS3
 - JavaScript
 
-## Live Demo
+## [Live Demo](https://dev--comfy-pudding-888292.netlify.app/)
 
 [Coming soon]("#")
 
@@ -32,13 +32,22 @@ To get a local copy up and running follow these simple example steps.
 - `npm install`
 - `npm start`
 
+### Test
+- run `npm run test`
 
-## Author
+## Authors
 
 👤 **Betsegaw Sebsibe**
 
 - GitHub: [@betses](https://github.com/betses)
 - Twitter: [@betse_s](https://twitter.com/betse_s)
+
+👤 Praises Tula
+
+    GitHub: @praisespjmt
+    Twitter: @praisespjmt
+    LinkedIn: Praises Musa Tula
+
 
 ## 🤝 Contributing
 

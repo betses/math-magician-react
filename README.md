@@ -12,9 +12,8 @@
 - CSS3
 - JavaScript
 
-## [Live Demo](https://dev--comfy-pudding-888292.netlify.app/)
 
-[Coming soon]("#")
+## [Live Demo](https://dev--comfy-pudding-888292.netlify.app/)
 
 
 ## Getting Started
